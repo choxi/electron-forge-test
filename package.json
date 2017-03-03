@@ -35,7 +35,7 @@
       "electronInstallerRedhat": {},
       "github_repository": {
         "owner": "choxi",
-        "name": "haiku"
+        "name": "electron-forge-test"
       },
       "windowsStoreConfig": {
         "packageName": "",
